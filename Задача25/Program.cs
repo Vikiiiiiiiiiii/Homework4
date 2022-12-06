@@ -18,5 +18,3 @@ for (int i = 1; i < b; i++)
     }
     
 Console.WriteLine("Число A в степени B равно: " + naturalStep);
-
-
